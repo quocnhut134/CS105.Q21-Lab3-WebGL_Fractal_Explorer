@@ -54,13 +54,13 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 ### Development Mode
 1. Clone or download this repository.
 2. Open a terminal in the project directory.
-3. Install the required dependencies:
-   ```bash
-   npm install
-   ```
-4. Go to src folder and run the application in development mode:
+3. Go to src folder and install the required dependencies:
    ```bash
    cd src
+   npm install
+   ```
+4. Run the application in development mode:
+   ```bash
    npm start
    ```
 
