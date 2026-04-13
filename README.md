@@ -71,6 +71,4 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
     * *Mandelbrot Set:* Adjust the zoom level.
     * *Julia Set:* Adjust the phase angle to change the constant $C$ and alter the fractal's shape.
 
-![Image](https://github.com/user-attachments/assets/9f167e4e-f3c9-421a-b65f-b2968d88dc1b) 
-
 https://github.com/user-attachments/assets/f5ed9513-8756-4737-a121-91eef9aed37f
